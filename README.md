@@ -8,6 +8,13 @@ This is the repo where I start digging into GoLang.
 
 Install `Go` in your machine [Here](https://go.dev/doc/install)
 
+
+### Change dir
+
+```
+cd src
+```
+
 ### Run Go
 
 ```bash
