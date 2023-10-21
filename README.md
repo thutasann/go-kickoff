@@ -23,8 +23,6 @@ go run main.go
 
 ### Build Go
 
-> Uncomment codes and run command :
-
 ```bash
 go build main.go
 ```
