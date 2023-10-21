@@ -1,4 +1,4 @@
-# GoLang Kick off
+# GoLang Kick off 
 
 This is the repo where I start digging into GoLang.
 
@@ -8,15 +8,13 @@ This is the repo where I start digging into GoLang.
 
 Install `Go` in your machine [Here](https://go.dev/doc/install)
 
-### Running `Go` files
-
-> Uncomment codes and run command :
+### Run Go
 
 ```bash
 go run main.go
 ```
 
-### Build `Go` files
+### Build Go
 
 > Uncomment codes and run command :
 
@@ -24,7 +22,7 @@ go run main.go
 go build main.go
 ```
 
-### Format `Go` files
+### Format Go
 
 ```bash
 go fmt main.go
