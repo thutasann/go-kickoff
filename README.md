@@ -2,6 +2,8 @@
 
 This is the repo where I start digging into GoLang.
 
+Here is the Course Link. [Utemy Course](https://www.udemy.com/course/getgoing/learn/lecture/15679926#overview)
+
 ## Available Scripts
 
 ### Install Go
